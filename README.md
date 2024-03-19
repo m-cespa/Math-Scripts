@@ -1,4 +1,4 @@
-MATHEMATICAL MODELLING SCRIPTS
+# Numerical Approximation Methods
 
 Description:
 
