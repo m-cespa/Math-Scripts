@@ -1,4 +1,4 @@
-# Numerical Approximation Methods
+# Computational Mathematical Methods
 
 Description:
 
